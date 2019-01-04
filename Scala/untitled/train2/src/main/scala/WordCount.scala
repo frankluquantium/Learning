@@ -77,7 +77,7 @@ object WordCount {
     case class Person(name: String, age: Long)
     val caseClassDS =  spark.sparkContext.parallelize(Seq(Person("Andy", 32)))
 
-    caseClassDS.
+
 
     //df.rdd.filter(a => true).toDS()
 
