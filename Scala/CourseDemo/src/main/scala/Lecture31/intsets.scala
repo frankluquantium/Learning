@@ -19,5 +19,7 @@ object intsets extends App{
  println(t2.toString)
   println(t2.incl(0).toString)
 
-  def assertAllPos(s: IntSet) : IntSet
+
+
+
 }
