@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Assignment/Week1/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Assignment/Week2/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Assignment/Week3/objsets/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Assignment/Week4/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Assignment/Week6/forcomp/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../DS" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Scala/HelloWorld3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Scala/Medtech" value="PREVIEW" />
+        <entry key="C:/Projects" value="PREVIEW" />
+        <entry key="C:/Projects/discovery-etl" value="PREVIEW" />
+        <entry key="C:/example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>

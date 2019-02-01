@@ -1,0 +1,5 @@
+package LogTest
+
+object LogObj {
+
+}

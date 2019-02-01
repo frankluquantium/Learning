@@ -1,0 +1,5 @@
+package FolderLeft
+
+object FoldLeft {
+
+}

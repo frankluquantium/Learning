@@ -1,0 +1,5 @@
+package MapFunction
+
+object MapDemo {
+
+}

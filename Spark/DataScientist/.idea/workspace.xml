@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb29a6ab-8b20-48f7-b784-5ebdff10030f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Week4/patmat/src/main/scala/LogTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Week4/patmat/src/main/scala/patmat/Test.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Week6/forcomp/forcomp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Week6/forcomp/forcomp/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Week6/forcomp/forcomp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Week6/forcomp/forcomp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Week6/forcomp/forcomp/.idea/modules/forcomp_8640-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Week6/forcomp/forcomp/.idea/modules/forcomp_8640.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Week6/forcomp/forcomp/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Week6/forcomp/forcomp/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Week6/forcomp/forcomp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Week6/forcomp/forcomp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Week6/forcomp/forcomp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Week6/forcomp/forcomp/src/main/scala/forcomp/test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_scala_2_10_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_10_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/libraries/sbt__org_mongodb_mongo_java_driver_3_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/libraries/sbt__org_mongodb_spark_mongo_spark_connector_2_11_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/libraries/sbt__org_scalactic_scalactic_2_11_3_0_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/libraries/sbt__org_scalatest_scalatest_2_11_3_0_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/libraries/sbt__org_slf4j_slf4j_simple_1_7_25_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/data/fruits.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/data/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/resources/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/CSVload/LoadCSV.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/CSVload/LoadCSV2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/FolderLeft/FoldLeft.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/FunctionTest/FunctionTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture51/ListDef.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture54/Foo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture62/FindPair.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture62/isPrime.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture63/nqueens.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture64/MapDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture64/polynomials.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture65/test.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture65/test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/LogTest/LogClass.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/LogTest/LogObj.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/MapFunction/MapDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/SparkColumn/SparkColumn.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/SparkColumn/SparkColumnTest.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Week6/WordOccurance.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/classCompare/Car.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/classCompare/chinaCar.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/classCompare/classTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/datascientist_1452-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/datascientist_1452.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment/Week2/funsets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment/Week2/funsets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment/Week4/patmat/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment/Week4/patmat/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment/Week4/patmat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment/Week4/patmat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment/Week4/patmat/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment/Week4/patmat/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment/Week4/patmat/src/main/scala/patmat/Huffman.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment/Week4/patmat/src/main/scala/patmat/Huffman.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/ClaimProfiling/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/ClaimProfiling/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/modules/CourseDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/modules/CourseDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$550eef6859b0809e436f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$85395670f3312bdfb638$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$85395670f3312bdfb638$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$a99e202142e471d6438f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$b8e0a23070ddaa6aece3$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$b8e0a23070ddaa6aece3$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$bf7450c59c9eeb52c666$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$d0b0281787ebb304ce81$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$d0b0281787ebb304ce81.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$d0b0281787ebb304ce81.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$d5f99669046435911d55$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$d6ceeedda8ac014eea52$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$d6ceeedda8ac014eea52$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$da39af6e8ca9ae0aa6f5$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$e8a871a94ce77c2a9c7b$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$e8a871a94ce77c2a9c7b$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$f34e7590d70b49ce944a$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/config-classes/$f34e7590d70b49ce944a$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/default/coursedemo-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/default/coursedemo-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/default/coursedemo-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/default/coursedemo-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-coursedemo-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture44/List.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture44/List.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture44/test.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture44/test.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture47/ListTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/src/main/scala/Lecture47/ListTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture44/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture44/List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture44/test$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture44/test$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture44/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture44/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture47/ListTest$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture47/ListTest$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture47/ListTest$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture47/ListTest$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture47/ListTest$$anonfun$times$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture47/ListTest$$anonfun$times$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture47/ListTest$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture47/ListTest$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture47/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/classes/Lecture47/ListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/default/coursedemo$sources/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/default/coursedemo$sources/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/default/coursedemo$sources/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/default/coursedemo$sources/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/default/coursedemo_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/default/coursedemo_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/default/coursedemo_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/default/coursedemo_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/scala-2.11/resolution-cache/reports/default-coursedemo_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/CourseDemo/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="271619087">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="datascientist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataScientist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datascientist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataScientist" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datascientist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataScientist" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datascientist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataScientist" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548383028267" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="datascientist" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="datascientist_1452 [file:/C:/Code/Spark/DataScientist/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="datascientist_1452-build [file:/C:/Code/Spark/DataScientist/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3096765404428" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2530192461" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb29a6ab-8b20-48f7-b784-5ebdff10030f" name="Default Changelist" comment="" />
+      <created>1548382805420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548382805420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32917467" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

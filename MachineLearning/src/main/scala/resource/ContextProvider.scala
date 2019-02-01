@@ -1,0 +1,5 @@
+package resource
+
+trait ContextProvider {
+
+}

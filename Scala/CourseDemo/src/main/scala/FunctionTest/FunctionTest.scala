@@ -1,0 +1,5 @@
+package FunctionTest
+
+object FunctionTest {
+
+}

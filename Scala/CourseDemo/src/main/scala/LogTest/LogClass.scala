@@ -1,0 +1,5 @@
+package LogTest
+
+class LogClass {
+
+}

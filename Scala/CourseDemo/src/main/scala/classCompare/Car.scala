@@ -1,0 +1,5 @@
+package classCompare
+
+class Car {
+
+}
